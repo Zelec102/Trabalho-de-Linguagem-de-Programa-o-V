@@ -1,4 +1,4 @@
-# PROJECTO: SISTEMA DE FATURACAO DE UMA LOJA ALIMENTAR
+# SISTEMA DE FATURACAO DE UMA LOJA ALIMENTAR
 # Linguagem: Python
 # Autor: Zelec Nunes Ricardo
 # =====================================================
